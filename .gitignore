@@ -44,4 +44,5 @@ Thumbs.db
 *.log
 
 # Cache
-.cache/
+.cache/Scripts/
+pyvenv.cfg
